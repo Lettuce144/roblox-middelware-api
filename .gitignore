@@ -1,0 +1,57 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore application settings
+appsettings.Development.json
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+project.nuget.cache
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# Ignore Rider project files
+.idea/
+*.sln.iml
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.o
+*.so
+*.dylib
+*.lib
+*.a
+*.exp
+
+# Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Ignore other generated files
+project.assets.json

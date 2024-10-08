@@ -1,0 +1,6 @@
+@roblox_cartride_api_HostAddress = http://localhost:5175
+
+GET {{roblox_cartride_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
